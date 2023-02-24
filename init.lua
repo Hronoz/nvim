@@ -1,4 +1,5 @@
 require('plug')
+require('keys')
 
 local rt = require("rust-tools")
 
